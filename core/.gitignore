@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+*.lock
+build_script.*
+local.properties
+pubspec.lock
+.DS_Store
+.packages
+.dart_tool
+build/
+.flutter-plugins-dependencies
+.flutter-plugins
